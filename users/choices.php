@@ -19,10 +19,7 @@ if (!isset($_SESSION['user_id'])) {
     <title>choices</title>
 
 </head>
-<?php
 
-require('../shared/navbar.php');
-?>
 <div class="container d-flex flex-wrap justify-content-center align-items-center h-100">
 
     <div class="card m-5" style="width: 18rem;">

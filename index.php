@@ -1,5 +1,5 @@
 <?php session_start();
-require('./shared/navbar.php');
+
 ?>
 
 <!DOCTYPE html>
